@@ -3,5 +3,5 @@
 | Java
 🇧🇷 Brazil
 
-Me chamo Daniel Silva Bernardo, tenho 18 anos. Atualmente estou cursando Análise e Desevolvimento de Sistemas na universidade Unicesumar. Amo tudo que envolta tecnologia, desde criança 
+Me chamo Daniel Silva Bernardo, tenho 18 anos. Atualmente estou cursando Análise e Desevolvimento de Sistemas na universidade Unicesumar. Amo tudo que tenha tecnologia, desde criança.
 
